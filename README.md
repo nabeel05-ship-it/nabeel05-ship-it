@@ -55,33 +55,6 @@ I'm a second-year Computer Science Engineering student building products where e
 
 <br clear="right" />
 
-## 🌌 The Build Universe
-
-```mermaid
-flowchart TB
-    N([Nabeel • Second-Year CSE]):::core
-    N --> AI[🤖 Applied AI]:::ai
-    N --> WEB[⚡ Full-Stack Products]:::web
-    N --> IMPACT[🌍 Human-Centred Impact]:::impact
-    AI --> F[FoodWise<br/>Smart redistribution]
-    WEB --> W[WebForAll<br/>Accessible web intelligence]
-    WEB --> X[NexWorth<br/>Financial intelligence]
-    IMPACT --> R[ResQ AI<br/>Emergency first response]
-
-    classDef core fill:#0f172a,stroke:#a78bfa,color:#ffffff,stroke-width:3px;
-    classDef ai fill:#312e81,stroke:#a78bfa,color:#ffffff,stroke-width:2px;
-    classDef web fill:#0c4a6e,stroke:#38bdf8,color:#ffffff,stroke-width:2px;
-    classDef impact fill:#4c1d95,stroke:#f472b6,color:#ffffff,stroke-width:2px;
-```
-
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>01 · THINK</strong><br /><sub>Start with the people and the problem.</sub></td>
-    <td width="33%" align="center"><strong>02 · BUILD</strong><br /><sub>Turn ideas into usable, testable products.</sub></td>
-    <td width="33%" align="center"><strong>03 · IMPROVE</strong><br /><sub>Learn from feedback and keep shipping.</sub></td>
-  </tr>
-</table>
-
 ## ✨ Featured Projects
 
 <table>
