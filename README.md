@@ -21,14 +21,22 @@
 </p>
 
 ---
+```html
+<div align="center">
 
-```text
-┌────────────────────[ nabeel@build-lab ]───────────────────────────┐
-│  Role      Second-Year CSE Student • AI & Full-Stack Developer    │
-│  Mission   Turn complex, real-world problems into useful products │
-│  Building  AI systems • accessible web • social-impact technology │
-│  Currently Python • DSA • backend architecture • AI integration   │
-└───────────────────────────────────────────────────────────────────┘
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                  [ nabeel@build-lab ]                        │
+│                                                              │
+│ Role      Second-Year CSE Student • AI & Full-Stack Developer│
+│ Mission   Turn complex, real-world problems into useful      │
+│           products                                            │
+│ Building  AI systems • accessible web • social-impact tech  │
+│ Currently Python • DSA • backend architecture • AI integration│
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
 ```
 
 <p align="center">
