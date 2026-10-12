@@ -16,6 +16,7 @@
   <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
   <a href="#-technology-constellation">Stack</a> &nbsp;•&nbsp;
   <a href="#-live-github-pulse">GitHub Pulse</a> &nbsp;•&nbsp;
+  <a href="#-open-a-channel">Contact</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3">Let's connect</a>
 </p>
 
@@ -23,7 +24,7 @@
 
 ```text
 ┌─[ nabeel@build-lab ]──────────────────────────────────────────────┐
-│  role      CSE Student • AI & Full-Stack Developer                │
+│  role      Second-Year CSE Student • AI & Full-Stack Developer    │
 │  mission   Turn complex, real-world problems into useful products │
 │  building  AI systems • accessible web • social-impact technology │
 │  currently Python • DSA • backend architecture • AI integration   │
@@ -38,7 +39,9 @@
 
 ## ⚡ The Builder Behind the Code
 
-I build products where engineering meets real-world impact: food redistribution, digital accessibility, financial intelligence, and emergency first response. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
+<img align="right" alt="Animated developer workspace" width="330" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
+
+I'm a second-year Computer Science Engineering student building products where engineering meets real-world impact: food redistribution, digital accessibility, financial intelligence, and emergency first response. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
 
 <details open>
 <summary><strong>Open the developer dossier</strong></summary>
@@ -49,6 +52,8 @@ I build products where engineering meets real-world impact: food redistribution,
 - **Ask me about:** hackathons, AI product ideas, full-stack web apps, and turning an idea into a prototype.
 - **Open to:** meaningful collaborations, open-source work, and challenging product problems.
 </details>
+
+<br clear="right" />
 
 ## ✨ Featured Projects
 
@@ -165,20 +170,21 @@ I build products where engineering meets real-world impact: food redistribution,
 <p align="center"><sub>Auto-refreshed daily from my GitHub contribution history.</sub></p>
 
 <details>
-<summary><strong>Unlock the achievement cabinet</strong></summary>
+<summary><strong>Open the activity vault</strong></summary>
 <br />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabeel05-ship-it&theme=tokyonight&no-frame=true&no-bg=true&margin-w=7&column=7" alt="GitHub trophies" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabeel05-ship-it&theme=tokyonight" alt="Most-used languages by commit activity" />
 </p>
 </details>
 
-## 🤝 Let's Build Something Meaningful
+## 📬 Open a Channel
 
 <p>
 If you're working on an AI product, accessibility initiative, social-impact platform, or ambitious full-stack idea, I'd love to connect and explore it.
 </p>
 
 <p align="center">
+  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-nabeelsaroshahmed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nabeel" /></a>
   <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/START_A_CONVERSATION-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
 </p>
 
