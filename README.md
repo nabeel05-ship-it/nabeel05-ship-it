@@ -23,12 +23,12 @@
 ---
 ```text
 
-            ┌────────────────────[ nabeel@build-lab ]───────────────────────────┐
-            │  role      Second-Year CSE Student • AI & Full-Stack Developer    │
-            │  mission   Turn complex, real-world problems into useful products │
-            │  building  AI systems • accessible web • social-impact technology │
-            │  currently Python • DSA • backend architecture • AI integration   │
-            └───────────────────────────────────────────────────────────────────┘
+                          ┌────────────────────[ nabeel@build-lab ]───────────────────────────┐
+                          │  Role      Second-Year CSE Student • AI & Full-Stack Developer    │
+                          │  Mission   Turn complex, real-world problems into useful products │
+                          │  Building  AI systems • accessible web • social-impact technology │
+                          │  Currently Python • DSA • backend architecture • AI integration   │
+                          └───────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
