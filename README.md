@@ -145,13 +145,11 @@ I'm a second-year Computer Science Engineering student building products where e
 </p>
 
 <p align="center">
-  <a href="https://github.com/nabeel05-ship-it">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel05-ship-it&bg_color=0d1117&color=60a5fa&line=2563eb&point=93c5fd&area=true&hide_border=true"
-      alt="GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/2563eb/nabeel05-ship-it"
+    alt="Nabeel's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
