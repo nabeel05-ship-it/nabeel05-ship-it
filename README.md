@@ -21,45 +21,14 @@
 </p>
 
 ---
-```html
-<div align="center">
+```text
 
-<table>
-  <tr>
-    <td align="left">
-      <strong>Role</strong>
-    </td>
-    <td>
-      Second-Year CSE Student · AI &amp; Full-Stack Development
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Mission</strong>
-    </td>
-    <td>
-      Turning complex, real-world problems into useful products
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Building</strong>
-    </td>
-    <td>
-      AI systems · Accessible web · Social-impact technology
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Currently</strong>
-    </td>
-    <td>
-      Python · DSA · Backend architecture · AI integration
-    </td>
-  </tr>
-</table>
-
-</div>
+            ┌────────────────────[ nabeel@build-lab ]───────────────────────────┐
+            │  role      Second-Year CSE Student • AI & Full-Stack Developer    │
+            │  mission   Turn complex, real-world problems into useful products │
+            │  building  AI systems • accessible web • social-impact technology │
+            │  currently Python • DSA • backend architecture • AI integration   │
+            └───────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
