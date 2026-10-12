@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f2a5f,70:2563eb,100:60a5fa&height=220&section=header&text=NABEEL%20SAROSH%20AHMED&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IMPACT-DRIVEN%20BUILDER&descAlignY=56&descSize=18" alt="Nabeel Sarosh Ahmed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0ea5e9,48:2563eb,72:7c3aed,100:ec4899&height=240&section=header&text=NABEEL%20SAROSH%20AHMED&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IMPACT-DRIVEN%20BUILDER&descAlignY=56&descSize=18" alt="Nabeel Sarosh Ahmed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/nabeel05-ship-it"><img src="https://img.shields.io/badge/GitHub-nabeel05--ship--it-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nabeel05-ship-it&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nabeel05-ship-it&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&width=900&height=50&lines=Engineering+AI+that+solves+real+problems.;Building+full-stack+products+with+purpose.;From+idea+%E2%86%92+prototype+%E2%86%92+impact+%F0%9F%9A%80" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Engineering+AI+that+solves+real+problems.;Building+full-stack+products+with+purpose.;Designing+for+accessibility%2C+impact%2C+and+scale.;From+idea+%E2%86%92+prototype+%E2%86%92+impact+%F0%9F%9A%80" alt="Animated introduction" />
 </p>
 
 <p align="center">
@@ -30,11 +30,17 @@
 └───────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-7c3aed?style=for-the-badge&labelColor=111827" alt="Building in public" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOCIAL%20IMPACT-ec4899?style=for-the-badge&labelColor=111827" alt="AI and social impact" />
+  <img src="https://img.shields.io/badge/MODE-OPEN%20TO%20COLLABORATE-0ea5e9?style=for-the-badge&labelColor=111827" alt="Open to collaborate" />
+</p>
+
 ## ⚡ The Builder Behind the Code
 
 I build products where engineering meets real-world impact: food redistribution, digital accessibility, financial intelligence, and emergency first response. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
 
-<details>
+<details open>
 <summary><strong>Open the developer dossier</strong></summary>
 <br />
 
@@ -134,7 +140,16 @@ I build products where engineering meets real-world impact: food redistribution,
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel05-ship-it&bg_color=00000000&color=bfdbfe&line=2563eb&point=60a5fa&area=true&area_color=1d4ed8&hide_border=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel05-ship-it&bg_color=00000000&color=ddd6fe&line=7c3aed&point=ec4899&area=true&area_color=2563eb&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabeel05-ship-it&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabeel05-ship-it&theme=tokyonight" alt="GitHub summary statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nabeel05-ship-it&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
 </p>
 
 ## 🐍 Contribution Garden
@@ -168,5 +183,5 @@ If you're working on an AI product, accessibility initiative, social-impact plat
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,30:2563eb,70:0f2a5f,100:020617&height=120&section=footer" alt="Blue wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,28:7c3aed,58:2563eb,82:0ea5e9,100:020617&height=130&section=footer" alt="Aurora wave footer" />
 </p>
