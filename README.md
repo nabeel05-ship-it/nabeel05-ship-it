@@ -89,6 +89,19 @@ I build products where engineering meets real-world impact: food redistribution,
   <a href="https://github.com/nabeel05-ship-it?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_FULL_PROJECT_LAB-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
 </p>
 
+<details>
+<summary><strong>Open the project showcase</strong></summary>
+<br />
+<p align="center">
+  <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=FoodWise&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="FoodWise repository card" /></a>
+  <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=webforall&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="WebForAll repository card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=NexWorth&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="NexWorth repository card" /></a>
+  <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu-22-11&repo=ResQ-AI&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="ResQ AI repository card" /></a>
+</p>
+</details>
+
 ## 🧩 Technology Constellation
 
 <p align="center">
@@ -112,7 +125,7 @@ I build products where engineering meets real-world impact: food redistribution,
 
 <p align="center">
   <img height="178" src="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&theme=tokyonight&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="178" src="https://github-readme-streak-stats.herokuapp.com?user=nabeel05-ship-it&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
+  <img height="178" src="https://streak-stats.demolab.com?user=nabeel05-ship-it&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -123,6 +136,18 @@ I build products where engineering meets real-world impact: food redistribution,
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel05-ship-it&bg_color=00000000&color=bfdbfe&line=2563eb&point=60a5fa&area=true&area_color=1d4ed8&hide_border=true" alt="Contribution activity graph" />
 </p>
+
+## 🐍 Contribution Garden
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center"><sub>Auto-refreshed daily from my GitHub contribution history.</sub></p>
 
 <details>
 <summary><strong>Unlock the achievement cabinet</strong></summary>
