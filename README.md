@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0ea5e9,48:2563eb,72:7c3aed,100:ec4899&height=240&section=header&text=NABEEL%20SAROSH%20AHMED&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IMPACT-DRIVEN%20BUILDER&descAlignY=56&descSize=18" alt="Nabeel Sarosh Ahmed" />
+  <img src="assets/hero.svg" width="100%" alt="Nabeel Sarosh Ahmed — AI • Full-Stack • Impact-Driven Builder" />
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-7c3aed?style=flat-square&labelColor=111827" alt="Building in public" />
   <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOCIAL%20IMPACT-ec4899?style=flat-square&labelColor=111827" alt="AI and social impact" />
   <img src="https://img.shields.io/badge/MODE-OPEN%20TO%20COLLABORATE-0ea5e9?style=flat-square&labelColor=111827" alt="Open to collaborate" />
-  <img src="https://img.shields.io/badge/SHIPPED-4%20LIVE%20PRODUCTS-22c55e?style=flat-square&labelColor=111827" alt="Four live products" />
 </p>
 
 <p align="center">
@@ -31,28 +30,21 @@
   <a href="#-open-a-channel"><b>Contact</b></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<p align="center">
+  <img src="assets/impact.svg" width="100%" alt="4 live products · 4 impact domains · 16 technologies · 12+ languages in ResQ AI" />
+</p>
 
 ## ⚡ The Builder Behind the Code
 
-<img align="right" alt="Animated developer workspace" width="320" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
+<img align="right" alt="Animated developer workspace" width="260" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
 
 I'm a **second-year Computer Science Engineering student** building products where engineering meets real-world impact: **food redistribution, digital accessibility, financial intelligence, and emergency first response**. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
 
-```python
-class Nabeel:
-    role     = "Second-Year CSE Student · AI & Full-Stack Developer"
-    mission  = "Turn complex, real-world problems into useful products"
-    building = ["AI systems", "accessible web", "social-impact technology"]
-    learning = ["Python", "DSA", "backend architecture", "AI integration"]
-    values   = ["accessibility", "privacy-aware design", "dependable workflows"]
-    open_to  = ["meaningful collaborations", "open source", "hard product problems"]
-
-    def ship(self, idea):
-        return impact(prototype(idea))  # 🚀
-```
-
 <br clear="right" />
+
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, mission, what I'm building and learning" />
+</p>
 
 <details>
 <summary><strong>🗂️ Open the developer dossier</strong></summary>
@@ -63,6 +55,8 @@ class Nabeel:
 - 💬 **Ask me about:** hackathons, AI product ideas, full-stack web apps, and turning an idea into a prototype.
 - 🤝 **Open to:** meaningful collaborations, open-source work, and challenging product problems.
 </details>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <a id="mission-map"></a>
 
@@ -83,47 +77,37 @@ flowchart LR
     classDef impact fill:#831843,stroke:#ec4899,color:#fce7f3,stroke-width:3px
 ```
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## ✨ Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/nabeel05-ship-it/FoodWise">FoodWise</a></h3>
-      <p><img src="https://img.shields.io/badge/IMPACT-FOOD%20RESCUE-22c55e?style=flat-square&labelColor=111827" alt="Food rescue" /></p>
-      <p><strong>Smart food-surplus redistribution ecosystem</strong></p>
-      <p>Connects households and institutional kitchens with verified NGOs for time-sensitive surplus collection and delivery.</p>
-      <p>✦ Smart NGO matching &nbsp; ✦ urgency tracking &nbsp; ✦ OTP handover &nbsp; ✦ impact ledger &nbsp; ✦ Groq guidance assistant</p>
-      <p><code>Next.js</code> <code>React</code> <code>MongoDB</code> <code>Groq</code></p>
-      <p><a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a> <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a></p>
+    <td width="50%" align="center" valign="top">
+      <a href="https://food-wise-henna.vercel.app/"><img src="assets/project-foodwise.svg" width="100%" alt="FoodWise" /></a>
+      <br />
+      <a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a>
+      <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>♿ <a href="https://github.com/nabeel05-ship-it/webforall">WebForAll</a></h3>
-      <p><img src="https://img.shields.io/badge/IMPACT-DIGITAL%20ACCESSIBILITY-0ea5e9?style=flat-square&labelColor=111827" alt="Digital accessibility" /></p>
-      <p><strong>Accessibility intelligence for the modern web</strong></p>
-      <p>A privacy-first scanner that translates accessibility audits into clear, developer-ready remediation guidance.</p>
-      <p>✦ axe-core audits &nbsp; ✦ WCAG insight &nbsp; ✦ secure URL scanning &nbsp; ✦ PDF/JSON reports</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>axe-core</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a> <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a></p>
+    <td width="50%" align="center" valign="top">
+      <a href="https://webforall-seven.vercel.app/"><img src="assets/project-webforall.svg" width="100%" alt="WebForAll" /></a>
+      <br />
+      <a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a>
+      <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💹 <a href="https://github.com/nabeel05-ship-it/NexWorth">NexWorth</a></h3>
-      <p><img src="https://img.shields.io/badge/IMPACT-FINANCIAL%20CLARITY-f59e0b?style=flat-square&labelColor=111827" alt="Financial clarity" /></p>
-      <p><strong>AI financial intelligence platform</strong></p>
-      <p>Makes everyday spending and long-term opportunity costs visible, so people can make more intentional money decisions.</p>
-      <p>✦ expense intelligence &nbsp; ✦ SMS transaction capture &nbsp; ✦ forecasts &nbsp; ✦ goal planning &nbsp; ✦ Gemini assistance</p>
-      <p><code>React</code> <code>Express</code> <code>MongoDB</code> <code>Gemini</code></p>
-      <p><a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a> <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a></p>
+    <td width="50%" align="center" valign="top">
+      <a href="https://nexworth-ten.vercel.app/"><img src="assets/project-nexworth.svg" width="100%" alt="NexWorth" /></a>
+      <br />
+      <a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a>
+      <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🆘 <a href="https://github.com/Sudhanshu-22-11/ResQ-AI">ResQ AI</a></h3>
-      <p><img src="https://img.shields.io/badge/IMPACT-EMERGENCY%20RESPONSE-ef4444?style=flat-square&labelColor=111827" alt="Emergency response" /></p>
-      <p><strong>Offline-first emergency first-response PWA</strong></p>
-      <p>Designed to help people take the right first steps in emergencies before professional care arrives.</p>
-      <p>✦ hold-to-SOS &nbsp; ✦ offline first-aid &nbsp; ✦ 12+ languages &nbsp; ✦ CPR metronome &nbsp; ✦ AI vision guidance</p>
-      <p><code>React</code> <code>PWA</code> <code>Capacitor</code> <code>Groq</code></p>
-      <p><a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a> <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a></p>
+    <td width="50%" align="center" valign="top">
+      <a href="https://resq-ai-three.vercel.app/login"><img src="assets/project-resq.svg" width="100%" alt="ResQ AI" /></a>
+      <br />
+      <a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a>
+      <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a>
     </td>
   </tr>
 </table>
@@ -145,7 +129,13 @@ flowchart LR
 </p>
 </details>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## 🧩 Technology Constellation
+
+<p align="center">
+  <img src="assets/tech-orbit.svg" width="100%" alt="Animated technology orbit" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vite,figma&theme=dark&perline=8" alt="Technology icons" />
@@ -158,6 +148,8 @@ flowchart LR
 | ⚙️ **Backend & Data** | Node.js, Express, MongoDB, REST APIs |
 | 🤖 **AI & Product** | Groq, Gemini, accessibility engineering, PWA design |
 | 🚀 **Ship & Collaborate** | Git, GitHub, Vercel, Figma |
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 📡 Live GitHub Pulse
 
@@ -199,6 +191,8 @@ flowchart LR
 </p>
 </details>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## 🐍 Contribution Garden
 
 <p align="center">
@@ -210,6 +204,8 @@ flowchart LR
 </p>
 
 <p align="center"><sub>Auto-refreshed daily from my GitHub contribution history.</sub></p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 📬 Open a Channel
 
