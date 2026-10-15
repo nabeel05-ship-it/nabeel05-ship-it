@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Got an ambitious idea? Let's build it together.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="7s" repeatCount="indefinite"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.5" r="0.5"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1e293b"/></pattern>
+  <clipPath id="cl"><rect width="1000" height="240" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#cl)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <rect width="1000" height="240" fill="#020617"/><rect width="1000" height="240" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1000" height="240" fill="url(#glow)"/>
+  <g transform="translate(830 120)">
+    <circle r="46" fill="none" stroke="#a78bfa" stroke-width="2"><animate attributeName="r" values="46;100" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle r="46" fill="none" stroke="#38bdf8" stroke-width="2"><animate attributeName="r" values="46;100" dur="2.6s" begin="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle r="46" fill="#1e1b4b" stroke="url(#g)" stroke-width="3"/>
+    <g><animateTransform attributeName="transform" type="translate" values="0 2;0 -4;0 2" dur="3s" repeatCount="indefinite"/>
+      <rect x="-24" y="-16" width="48" height="32" rx="5" fill="#f8fafc"/>
+      <path d="M-24 -13 L0 5 L24 -13" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round"/></g>
+  </g>
+  <text x="48" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#a78bfa" letter-spacing="2">&gt; READY WHEN YOU ARE</text>
+  <text x="48" y="108" font-size="38" font-weight="800" fill="#f8fafc">Got an ambitious idea?</text>
+  <text x="48" y="150" font-size="17" fill="#94a3b8">AI products · accessibility initiatives · social-impact platforms ·</text>
+  <text x="48" y="176" font-size="17" fill="#94a3b8">ambitious full-stack ideas. I'd love to connect and explore it together.</text>
+  <rect x="48" y="198" width="0" height="3" rx="1.5" fill="url(#g)"><animate attributeName="width" values="0;300;300;0" keyTimes="0;0.35;0.75;1" dur="4s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="1" y="1" width="998" height="238" rx="21" fill="none" stroke="url(#bd)" stroke-width="2"/>
+</svg>
