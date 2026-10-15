@@ -1,4 +1,4 @@
-name: Generate contribution skyline
+name: Generate contribution chart
 
 on:
   schedule:
@@ -15,12 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Render Build Lab Skyline
-        run: python3 scripts/skyline.py ${{ github.repository_owner }} dist/skyline.svg
+      - name: Render weekly contribution chart
+        run: python3 scripts/contributions.py ${{ github.repository_owner }} dist/contributions.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish skyline SVG
+      - name: Publish chart SVG
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

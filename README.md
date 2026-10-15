@@ -109,7 +109,7 @@ I'm a **second-year Computer Science Engineering student** building products whe
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/skyline.svg" width="100%" alt="Build Lab Skyline: one building per week of contributions, rebuilt daily" />
+  <img src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/contributions.svg" width="100%" alt="Weekly contributions over the last 12 months" />
 </p>
 
 <a id="contact"></a>
