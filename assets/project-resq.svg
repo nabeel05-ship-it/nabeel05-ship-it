@@ -1,23 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-label="ResQ AI — Offline-first emergency first-response PWA">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 0 480 330" role="img" aria-label="ResQ AI — Offline-first emergency first-response PWA">
 <defs>
-  <radialGradient id="light" cx="1" cy="0" r="0.55"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.08"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
-  <clipPath id="cl"><rect width="480" height="300" rx="16"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ef4444"/><stop offset="0.5" stop-color="#818cf8" stop-opacity="0.35"/><stop offset="1" stop-color="#ef4444"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#ef4444" stop-opacity="0.35"/><stop offset="1" stop-color="#ef4444" stop-opacity="0"/></radialGradient>
+  <clipPath id="cl"><rect width="480" height="330" rx="18"/></clipPath>
 </defs>
-<g clip-path="url(#cl)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif">
-  <rect width="480" height="300" fill="#0b1120"/>
-  <rect width="480" height="300" fill="url(#light)"/>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.9s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.10s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
-  <circle cx="32" cy="36" r="3" fill="#7dd3fc"/>
-  <text x="44" y="40" font-size="11" font-weight="600" letter-spacing="2" fill="#64748b">EMERGENCY RESPONSE</text>
-  <text x="452" y="42" text-anchor="end" font-size="18" fill="#64748b">↗</text>
-  <text x="28" y="88" font-size="28" font-weight="600" fill="#f1f5f9">ResQ AI</text>
-  <text x="28" y="114" font-size="14" font-weight="500" fill="#cbd5e1">Offline-first emergency first-response PWA</text>
+<g clip-path="url(#cl)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <rect width="480" height="330" fill="url(#bg)"/>
+  <rect width="480" height="330" fill="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/></rect>
+  <circle cx="418" cy="62" r="34" fill="#7f1d1d" fill-opacity="0.55" stroke="#ef4444" stroke-opacity="0.6"/>
+  <circle cx="418" cy="62" r="34" fill="none" stroke="#ef4444" stroke-width="2" opacity="0.6"><animate attributeName="r" values="34;48" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="418" y="74" text-anchor="middle" font-size="32">🆘</text>
+  <rect x="28" y="26" width="196.6" height="22" rx="11" fill="#ef4444" fill-opacity="0.15" stroke="#ef4444" stroke-opacity="0.6"/>
+  <circle cx="41" cy="37" r="3.5" fill="#ef4444"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="51" y="41.5" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ef4444">EMERGENCY RESPONSE</text>
+  <text x="28" y="88" font-size="30" font-weight="800" fill="#f8fafc">ResQ AI</text>
+  <text x="28" y="114" font-size="14" font-weight="600" fill="#ef4444">Offline-first emergency first-response PWA</text>
   <text x="28" y="146" font-size="13.5" fill="#94a3b8">Helps people take the right first steps in emergencies</text>
   <text x="28" y="166" font-size="13.5" fill="#94a3b8">before professional care arrives.</text>
-  <rect x="28" y="184" width="98" height="22" rx="11" fill="none" stroke="#334155"/><text x="77" y="199" text-anchor="middle" font-size="11.5" fill="#cbd5e1">Hold-to-SOS</text><rect x="133.9" y="184" width="139" height="22" rx="11" fill="none" stroke="#334155"/><text x="204" y="199" text-anchor="middle" font-size="11.5" fill="#cbd5e1">Offline first-aid</text><rect x="281.20000000000005" y="184" width="112" height="22" rx="11" fill="none" stroke="#334155"/><text x="337" y="199" text-anchor="middle" font-size="11.5" fill="#cbd5e1">12+ languages</text><rect x="28" y="214" width="146" height="22" rx="11" fill="none" stroke="#334155"/><text x="101" y="229" text-anchor="middle" font-size="11.5" fill="#cbd5e1">AI vision guidance</text>
-  <line x1="28" y1="254.5" x2="452" y2="254.5" stroke="#1e293b"/>
-  <text x="28" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">React  ·  PWA  ·  Capacitor  ·  Groq</text>
+  <rect x="28" y="188" width="100" height="22" rx="11" fill="#ef4444" fill-opacity="0.12" stroke="#ef4444" stroke-opacity="0.45"/><text x="78" y="203" text-anchor="middle" font-size="11.5" fill="#e2e8f0">Hold-to-SOS</text><rect x="136.1" y="188" width="143" height="22" rx="11" fill="#ef4444" fill-opacity="0.12" stroke="#ef4444" stroke-opacity="0.45"/><text x="207" y="203" text-anchor="middle" font-size="11.5" fill="#e2e8f0">Offline first-aid</text><rect x="286.79999999999995" y="188" width="114" height="22" rx="11" fill="#ef4444" fill-opacity="0.12" stroke="#ef4444" stroke-opacity="0.45"/><text x="344" y="203" text-anchor="middle" font-size="11.5" fill="#e2e8f0">12+ languages</text><rect x="28" y="218" width="150" height="22" rx="11" fill="#ef4444" fill-opacity="0.12" stroke="#ef4444" stroke-opacity="0.45"/><text x="103" y="233" text-anchor="middle" font-size="11.5" fill="#e2e8f0">AI vision guidance</text>
+  <line x1="28" y1="268" x2="452" y2="268" stroke="#1e293b"/>
+  <rect x="28" y="281" width="56" height="22" rx="5" fill="#1e293b"/><text x="56" y="296" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#cbd5e1">React</text><rect x="90.0" y="281" width="41" height="22" rx="5" fill="#1e293b"/><text x="110" y="296" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#cbd5e1">PWA</text><rect x="136.8" y="281" width="86" height="22" rx="5" fill="#1e293b"/><text x="180" y="296" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#cbd5e1">Capacitor</text><rect x="229.2" y="281" width="48" height="22" rx="5" fill="#1e293b"/><text x="253" y="296" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#cbd5e1">Groq</text>
+  <rect x="-200" y="0" width="140" height="330" fill="#fff" opacity="0.05" transform="skewX(-20)"><animate attributeName="x" values="-300;800" dur="4.5s" repeatCount="indefinite"/></rect>
 </g>
-</g>
-<rect x="0.5" y="0.5" width="479" height="299" rx="15.5" fill="none" stroke="#1e293b"/>
+<rect x="1" y="1" width="478" height="328" rx="17" fill="none" stroke="url(#bd)" stroke-width="2"/>
 </svg>

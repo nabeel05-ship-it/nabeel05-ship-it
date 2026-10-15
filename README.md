@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://nabeel-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0b1120?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1120?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" /></a>
-  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-0b1120?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nabeel05-ship-it&label=PROFILE+VIEWS&color=0b1120&labelColor=1e293b&style=for-the-badge" alt="Profile views" />
+  <a href="https://nabeel-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nabeel05-ship-it&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -40,34 +40,34 @@ I'm a **second-year Computer Science Engineering student** building products whe
     <td width="50%" align="center" valign="top">
       <a href="https://food-wise-henna.vercel.app/"><img src="assets/project-foodwise.svg" width="100%" alt="FoodWise" /></a>
       <br />
-      <a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-1e293b?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a>
-      <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0b1120?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a>
+      <a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a>
+      <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://webforall-seven.vercel.app/"><img src="assets/project-webforall.svg" width="100%" alt="WebForAll" /></a>
       <br />
-      <a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-1e293b?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a>
-      <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0b1120?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a>
+      <a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a>
+      <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://nexworth-ten.vercel.app/"><img src="assets/project-nexworth.svg" width="100%" alt="NexWorth" /></a>
       <br />
-      <a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-1e293b?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a>
-      <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0b1120?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a>
+      <a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a>
+      <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://resq-ai-three.vercel.app/login"><img src="assets/project-resq.svg" width="100%" alt="ResQ AI" /></a>
       <br />
-      <a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-1e293b?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a>
-      <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0b1120?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a>
+      <a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a>
+      <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/nabeel05-ship-it?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
+  <a href="https://github.com/nabeel05-ship-it?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_FULL_PROJECT_LAB-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
 </p>
 
 <a id="stack"></a>
@@ -92,19 +92,19 @@ I'm a **second-year Computer Science Engineering student** building products whe
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&theme=transparent&title_color=f1f5f9&icon_color=7dd3fc&text_color=94a3b8&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&title_color=1f2328&icon_color=0969da&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&theme=tokyonight&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&title_color=2563eb&icon_color=2563eb&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&theme=transparent&title_color=f1f5f9&text_color=94a3b8&hide_border=true&bg_color=00000000&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&title_color=1f2328&hide_border=true&bg_color=00000000&langs_count=8" alt="Most-used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&theme=tokyonight&title_color=60a5fa&text_color=cbd5e1&hide_border=true&bg_color=00000000&langs_count=8" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&title_color=2563eb&hide_border=true&bg_color=00000000&langs_count=8" alt="Most-used languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nabeel05-ship-it&hide_border=true&background=00000000&ring=7DD3FC&fire=7DD3FC&currStreakLabel=F1F5F9&sideNums=F1F5F9&currStreakNum=F1F5F9&sideLabels=94A3B8&dates=64748B&stroke=1E293B" />
-    <img src="https://streak-stats.demolab.com?user=nabeel05-ship-it&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=1F2328" alt="GitHub contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nabeel05-ship-it&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=EC4899&currStreakLabel=60A5FA" />
+    <img src="https://streak-stats.demolab.com?user=nabeel05-ship-it&hide_border=true&background=00000000&ring=2563EB&fire=EC4899&currStreakLabel=2563EB" alt="GitHub contribution streak" />
   </picture>
 </p>
 
@@ -127,9 +127,9 @@ I'm a **second-year Computer Science Engineering student** building products whe
 </p>
 
 <p align="center">
-  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="https://img.shields.io/badge/EMAIL-nabeelsaroshahmed%40gmail.com-0b1120?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email Nabeel" /></a>
-  <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/LINKEDIN-1e293b?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
-  <a href="https://nabeel-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1e293b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-nabeelsaroshahmed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nabeel" /></a>
+  <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/START_A_CONVERSATION-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
+  <a href="https://nabeel-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/SEE_MY_PORTFOLIO-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
