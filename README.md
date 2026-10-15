@@ -55,22 +55,6 @@ class Nabeel:
 
 <a id="mission-map"></a>
 
-## 🗺️ Problems I Chose to Solve
-
-Every project starts with a real problem, not a tech stack.
-
-```mermaid
-flowchart LR
-    P1["🥡 Surplus food<br/>goes to waste"]:::problem --> S1["🍽️ FoodWise<br/>NGO matching + OTP handover"]:::solution
-    P2["🚧 The web isn't<br/>accessible to everyone"]:::problem --> S2["♿ WebForAll<br/>WCAG audits → clear fixes"]:::solution
-    P3["💸 Hidden costs in<br/>everyday spending"]:::problem --> S3["💹 NexWorth<br/>AI financial intelligence"]:::solution
-    P4["⏱️ Critical minutes before<br/>help arrives"]:::problem --> S4["🆘 ResQ AI<br/>offline-first SOS + first aid"]:::solution
-    S1 & S2 & S3 & S4 --> I(("🌍 Real<br/>Impact")):::impact
-
-    classDef problem fill:#1e1b4b,stroke:#7c3aed,color:#e9d5ff,stroke-width:2px
-    classDef solution fill:#0c4a6e,stroke:#0ea5e9,color:#e0f2fe,stroke-width:2px
-    classDef impact fill:#831843,stroke:#ec4899,color:#fce7f3,stroke-width:3px
-```
 
 ## ✨ Featured Projects
 
