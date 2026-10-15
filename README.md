@@ -1,5 +1,11 @@
+<a id="top"></a>
+
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Nabeel Sarosh Ahmed — AI • Full-Stack • Impact-Driven Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0ea5e9,48:2563eb,72:7c3aed,100:ec4899&height=240&section=header&text=NABEEL%20SAROSH%20AHMED&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IMPACT-DRIVEN%20BUILDER&descAlignY=56&descSize=18" alt="Nabeel Sarosh Ahmed" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Engineering+AI+that+solves+real+problems.;Building+full-stack+products+with+purpose.;Designing+for+accessibility%2C+impact%2C+and+scale.;From+idea+%E2%86%92+prototype+%E2%86%92+impact+%F0%9F%9A%80" alt="Animated introduction" />
 </p>
 
 <p align="center">
@@ -10,58 +16,114 @@
 </p>
 
 <p align="center">
-  <img src="assets/impact.svg" width="100%" alt="4 live products · 4 impact domains · 16 technologies · 12+ languages in ResQ AI" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-7c3aed?style=flat-square&labelColor=111827" alt="Building in public" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOCIAL%20IMPACT-ec4899?style=flat-square&labelColor=111827" alt="AI and social impact" />
+  <img src="https://img.shields.io/badge/MODE-OPEN%20TO%20COLLABORATE-0ea5e9?style=flat-square&labelColor=111827" alt="Open to collaborate" />
+  <img src="https://img.shields.io/badge/SHIPPED-4%20LIVE%20PRODUCTS-22c55e?style=flat-square&labelColor=111827" alt="Four live products" />
 </p>
-
-<a id="about"></a>
 
 <p align="center">
-  <img src="assets/header-about.svg" width="100%" alt="01 — The Builder Behind the Code" />
+  <a href="#-the-builder-behind-the-code"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#mission-map"><b>Mission Map</b></a> &nbsp;·&nbsp;
+  <a href="#-featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#-technology-constellation"><b>Stack</b></a> &nbsp;·&nbsp;
+  <a href="#-live-github-pulse"><b>GitHub Pulse</b></a> &nbsp;·&nbsp;
+  <a href="#-open-a-channel"><b>Contact</b></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## ⚡ The Builder Behind the Code
+
+<img align="right" alt="Animated developer workspace" width="320" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
 
 I'm a **second-year Computer Science Engineering student** building products where engineering meets real-world impact: **food redistribution, digital accessibility, financial intelligence, and emergency first response**. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
 
-<p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, mission, what I'm building and learning" />
-</p>
+```python
+class Nabeel:
+    role     = "Second-Year CSE Student · AI & Full-Stack Developer"
+    mission  = "Turn complex, real-world problems into useful products"
+    building = ["AI systems", "accessible web", "social-impact technology"]
+    learning = ["Python", "DSA", "backend architecture", "AI integration"]
+    values   = ["accessibility", "privacy-aware design", "dependable workflows"]
+    open_to  = ["meaningful collaborations", "open source", "hard product problems"]
 
-<p align="center">
-  <img src="assets/dossier.svg" width="100%" alt="Currently exploring: AI integration, backend systems, DSA. I care about: accessibility, privacy-aware design, dependable workflows. Ask me about: hackathons, AI product ideas, full-stack apps. Open to: collaborations, open source, challenging product problems." />
-</p>
+    def ship(self, idea):
+        return impact(prototype(idea))  # 🚀
+```
 
-<a id="projects"></a>
+<br clear="right" />
 
-<p align="center">
-  <img src="assets/header-projects.svg" width="100%" alt="02 — Featured Projects" />
-</p>
+<details>
+<summary><strong>🗂️ Open the developer dossier</strong></summary>
+<br />
+
+- 🔭 **Currently exploring:** AI integration, robust backend systems, data structures and algorithms.
+- 💜 **I care about:** accessibility, privacy-aware design, dependable workflows, and products that help people.
+- 💬 **Ask me about:** hackathons, AI product ideas, full-stack web apps, and turning an idea into a prototype.
+- 🤝 **Open to:** meaningful collaborations, open-source work, and challenging product problems.
+</details>
+
+<a id="mission-map"></a>
+
+## 🗺️ Problems I Chose to Solve
+
+Every project starts with a real problem, not a tech stack.
+
+```mermaid
+flowchart LR
+    P1["🥡 Surplus food<br/>goes to waste"]:::problem --> S1["🍽️ FoodWise<br/>NGO matching + OTP handover"]:::solution
+    P2["🚧 The web isn't<br/>accessible to everyone"]:::problem --> S2["♿ WebForAll<br/>WCAG audits → clear fixes"]:::solution
+    P3["💸 Hidden costs in<br/>everyday spending"]:::problem --> S3["💹 NexWorth<br/>AI financial intelligence"]:::solution
+    P4["⏱️ Critical minutes before<br/>help arrives"]:::problem --> S4["🆘 ResQ AI<br/>offline-first SOS + first aid"]:::solution
+    S1 & S2 & S3 & S4 --> I(("🌍 Real<br/>Impact")):::impact
+
+    classDef problem fill:#1e1b4b,stroke:#7c3aed,color:#e9d5ff,stroke-width:2px
+    classDef solution fill:#0c4a6e,stroke:#0ea5e9,color:#e0f2fe,stroke-width:2px
+    classDef impact fill:#831843,stroke:#ec4899,color:#fce7f3,stroke-width:3px
+```
+
+## ✨ Featured Projects
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://food-wise-henna.vercel.app/"><img src="assets/project-foodwise.svg" width="100%" alt="FoodWise" /></a>
-      <br />
-      <a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a>
-      <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/nabeel05-ship-it/FoodWise">FoodWise</a></h3>
+      <p><img src="https://img.shields.io/badge/IMPACT-FOOD%20RESCUE-22c55e?style=flat-square&labelColor=111827" alt="Food rescue" /></p>
+      <p><strong>Smart food-surplus redistribution ecosystem</strong></p>
+      <p>Connects households and institutional kitchens with verified NGOs for time-sensitive surplus collection and delivery.</p>
+      <p>✦ Smart NGO matching &nbsp; ✦ urgency tracking &nbsp; ✦ OTP handover &nbsp; ✦ impact ledger &nbsp; ✦ Groq guidance assistant</p>
+      <p><code>Next.js</code> <code>React</code> <code>MongoDB</code> <code>Groq</code></p>
+      <p><a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a> <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a></p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://webforall-seven.vercel.app/"><img src="assets/project-webforall.svg" width="100%" alt="WebForAll" /></a>
-      <br />
-      <a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a>
-      <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a>
+    <td width="50%" valign="top">
+      <h3>♿ <a href="https://github.com/nabeel05-ship-it/webforall">WebForAll</a></h3>
+      <p><img src="https://img.shields.io/badge/IMPACT-DIGITAL%20ACCESSIBILITY-0ea5e9?style=flat-square&labelColor=111827" alt="Digital accessibility" /></p>
+      <p><strong>Accessibility intelligence for the modern web</strong></p>
+      <p>A privacy-first scanner that translates accessibility audits into clear, developer-ready remediation guidance.</p>
+      <p>✦ axe-core audits &nbsp; ✦ WCAG insight &nbsp; ✦ secure URL scanning &nbsp; ✦ PDF/JSON reports</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>axe-core</code> <code>Tailwind CSS</code></p>
+      <p><a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a> <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://nexworth-ten.vercel.app/"><img src="assets/project-nexworth.svg" width="100%" alt="NexWorth" /></a>
-      <br />
-      <a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a>
-      <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a>
+    <td width="50%" valign="top">
+      <h3>💹 <a href="https://github.com/nabeel05-ship-it/NexWorth">NexWorth</a></h3>
+      <p><img src="https://img.shields.io/badge/IMPACT-FINANCIAL%20CLARITY-f59e0b?style=flat-square&labelColor=111827" alt="Financial clarity" /></p>
+      <p><strong>AI financial intelligence platform</strong></p>
+      <p>Makes everyday spending and long-term opportunity costs visible, so people can make more intentional money decisions.</p>
+      <p>✦ expense intelligence &nbsp; ✦ SMS transaction capture &nbsp; ✦ forecasts &nbsp; ✦ goal planning &nbsp; ✦ Gemini assistance</p>
+      <p><code>React</code> <code>Express</code> <code>MongoDB</code> <code>Gemini</code></p>
+      <p><a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a> <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a></p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://resq-ai-three.vercel.app/login"><img src="assets/project-resq.svg" width="100%" alt="ResQ AI" /></a>
-      <br />
-      <a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a>
-      <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a>
+    <td width="50%" valign="top">
+      <h3>🆘 <a href="https://github.com/Sudhanshu-22-11/ResQ-AI">ResQ AI</a></h3>
+      <p><img src="https://img.shields.io/badge/IMPACT-EMERGENCY%20RESPONSE-ef4444?style=flat-square&labelColor=111827" alt="Emergency response" /></p>
+      <p><strong>Offline-first emergency first-response PWA</strong></p>
+      <p>Designed to help people take the right first steps in emergencies before professional care arrives.</p>
+      <p>✦ hold-to-SOS &nbsp; ✦ offline first-aid &nbsp; ✦ 12+ languages &nbsp; ✦ CPR metronome &nbsp; ✦ AI vision guidance</p>
+      <p><code>React</code> <code>PWA</code> <code>Capacitor</code> <code>Groq</code></p>
+      <p><a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a> <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a></p>
     </td>
   </tr>
 </table>
@@ -70,25 +132,34 @@ I'm a **second-year Computer Science Engineering student** building products whe
   <a href="https://github.com/nabeel05-ship-it?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_FULL_PROJECT_LAB-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
 </p>
 
-<a id="stack"></a>
+<details>
+<summary><strong>📌 Open the project showcase</strong></summary>
+<br />
+<p align="center">
+  <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=FoodWise&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="FoodWise repository card" /></a>
+  <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=webforall&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="WebForAll repository card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=NexWorth&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="NexWorth repository card" /></a>
+  <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu-22-11&repo=ResQ-AI&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="ResQ AI repository card" /></a>
+</p>
+</details>
+
+## 🧩 Technology Constellation
 
 <p align="center">
-  <img src="assets/header-stack.svg" width="100%" alt="03 — Technology Constellation" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vite,figma&theme=dark&perline=8" alt="Technology icons" />
 </p>
 
-<p align="center">
-  <img src="assets/tech-orbit.svg" width="100%" alt="Animated technology orbit" />
-</p>
+| Domain | Tools I work with |
+| :-- | :-- |
+| 🧠 **Languages** | Python, TypeScript, JavaScript, HTML, CSS |
+| 🎨 **Frontend** | React, Next.js, Tailwind CSS, Vite |
+| ⚙️ **Backend & Data** | Node.js, Express, MongoDB, REST APIs |
+| 🤖 **AI & Product** | Groq, Gemini, accessibility engineering, PWA design |
+| 🚀 **Ship & Collaborate** | Git, GitHub, Vercel, Figma |
 
-<p align="center">
-  <img src="assets/stack-matrix.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, HTML, CSS. Frontend: React, Next.js, Tailwind CSS, Vite. Backend & Data: Node.js, Express, MongoDB, REST APIs. AI & Product: Groq, Gemini, accessibility engineering, PWA design. Ship & Collaborate: Git, GitHub, Vercel, Figma." />
-</p>
-
-<a id="pulse"></a>
-
-<p align="center">
-  <img src="assets/header-pulse.svg" width="100%" alt="04 — Live GitHub Pulse" />
-</p>
+## 📡 Live GitHub Pulse
 
 <p align="center">
   <picture>
@@ -109,6 +180,28 @@ I'm a **second-year Computer Science Engineering student** building products whe
 </p>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/2563eb/nabeel05-ship-it" alt="Nabeel's GitHub contribution graph" width="100%" />
+</p>
+
+<details>
+<summary><strong>📊 Open the activity vault</strong></summary>
+<br />
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabeel05-ship-it&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabeel05-ship-it&theme=tokyonight" alt="Repositories by language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabeel05-ship-it&theme=tokyonight" alt="Most-used languages by commit activity" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabeel05-ship-it&theme=tokyonight" alt="GitHub summary statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nabeel05-ship-it&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
+</p>
+</details>
+
+## 🐍 Contribution Garden
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake.svg" />
@@ -116,14 +209,12 @@ I'm a **second-year Computer Science Engineering student** building products whe
   </picture>
 </p>
 
-<a id="contact"></a>
+<p align="center"><sub>Auto-refreshed daily from my GitHub contribution history.</sub></p>
+
+## 📬 Open a Channel
 
 <p align="center">
-  <img src="assets/header-contact.svg" width="100%" alt="05 — Open a Channel" />
-</p>
-
-<p align="center">
-  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="assets/contact.svg" width="100%" alt="Got an ambitious idea? AI products, accessibility initiatives, social-impact platforms, ambitious full-stack ideas — I'd love to connect and explore it together." /></a>
+If you're working on an <b>AI product</b>, <b>accessibility initiative</b>, <b>social-impact platform</b>, or an <b>ambitious full-stack idea</b>,<br />I'd love to connect and explore it together.
 </p>
 
 <p align="center">
@@ -133,5 +224,11 @@ I'm a **second-year Computer Science Engineering student** building products whe
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — let's build something that matters." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+that+matters." alt="Thanks for visiting" />
+</p>
+
+<p align="center"><a href="#top">⬆ Back to top</a></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,28:7c3aed,58:2563eb,82:0ea5e9,100:020617&height=130&section=footer&animation=fadeIn" alt="Aurora wave footer" />
 </p>
