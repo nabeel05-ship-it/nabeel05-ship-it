@@ -5,6 +5,7 @@ Second-year Computer Science Engineering student, learning AI and full-stack dev
 I like working on ideas that solve real problems, and so far that has meant projects around food redistribution, web accessibility, personal finance and emergency response. I care about accessibility, privacy-aware design and building things people can actually use.
 
 **Currently learning:** Python, data structures and algorithms, backend architecture, and integrating AI into apps.
+
 **Open to:** collaborations, open-source work, hackathons and challenging project ideas.
 
 [Portfolio](https://nabeel-ahmed-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3) · [Email](mailto:nabeelsaroshahmed@gmail.com)
