@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-tawny-ten-ejtjxmzlb8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nabeel-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/nabeel05-ship-it"><img src="https://img.shields.io/badge/GitHub-nabeel05--ship--it-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nabeel-sarosh-ahmed-74b1a43b3"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=nabeel05-ship-it&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-tawny-ten-ejtjxmzlb8.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://nabeel-ahmed-portfolio.vercel.app">Portfolio</a> &nbsp;•&nbsp;
   <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
   <a href="#-technology-constellation">Stack</a> &nbsp;•&nbsp;
   <a href="#-live-github-pulse">GitHub Pulse</a> &nbsp;•&nbsp;
