@@ -1,20 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Thanks for stopping by. Let's build something that matters.">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
-  <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
-  <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
-  <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#020617" stop-opacity="0.6"/></linearGradient>
-  <clipPath id="cl"><rect width="1000" height="200" rx="22"/></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="Thanks for stopping by. Let's build something that matters.">
+<defs>
+  <radialGradient id="light" cx="0.5" cy="1" r="0.55"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.08"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <clipPath id="cl"><rect width="1000" height="110" rx="16"/></clipPath>
 </defs>
-<g clip-path="url(#cl)">
-  <rect width="1000" height="200" fill="#020617"/>
-  <path d="M0 120 C 250 90, 250 150, 500 120 S 750 90, 1000 120 S 1250 150, 1500 120 S 1750 90, 2000 120 V 200 H 0 Z" fill="url(#w1)" opacity="0.55"><animateTransform attributeName="transform" type="translate" values="0 0;-1000 0" dur="12s" repeatCount="indefinite"/></path>
-  <path d="M0 140 C 250 116, 250 164, 500 140 S 750 116, 1000 140 S 1250 164, 1500 140 S 1750 116, 2000 140 V 200 H 0 Z" fill="url(#w2)" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="-1000 0;0 0" dur="9s" repeatCount="indefinite"/></path>
-  <path d="M0 160 C 250 142, 250 178, 500 160 S 750 142, 1000 160 S 1250 178, 1500 160 S 1750 142, 2000 160 V 200 H 0 Z" fill="#0ea5e9" opacity="0.35"><animateTransform attributeName="transform" type="translate" values="0 0;-1000 0" dur="7s" repeatCount="indefinite"/></path>
-  <rect width="1000" height="200" fill="url(#fade)"/>
-  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="500" y="62" font-size="26" font-weight="800" fill="url(#g)">Thanks for stopping by ✨</text>
-    <text x="500" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#cbd5e1">Let's build something that matters.<tspan fill="#f472b6"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>▌</tspan></text>
-  </g>
+<g clip-path="url(#cl)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif">
+  <rect width="1000" height="110" fill="#0b1120"/>
+  <rect width="1000" height="110" fill="url(#light)"/>
+  <g text-anchor="middle" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="1s" fill="freeze"/>
+  <text x="500" y="50" font-size="17" font-weight="500" fill="#cbd5e1">Thanks for stopping by</text>
+  <text x="500" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#64748b">Let's build something that matters.<tspan fill="#7dd3fc"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>▌</tspan></text>
 </g>
-<rect x="1" y="1" width="998" height="198" rx="21" fill="none" stroke="url(#g)" stroke-opacity="0.5" stroke-width="2"/>
+</g>
+<rect x="0.5" y="0.5" width="999" height="109" rx="15.5" fill="none" stroke="#1e293b"/>
 </svg>
