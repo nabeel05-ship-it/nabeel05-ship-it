@@ -1,11 +1,11 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0ea5e9,48:2563eb,72:7c3aed,100:ec4899&height=240&section=header&text=NABEEL%20SAROSH%20AHMED&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IMPACT-DRIVEN%20BUILDER&descAlignY=56&descSize=18" alt="Nabeel Sarosh Ahmed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0ea5e9,48:2563eb,72:7c3aed,100:ec4899&height=240&section=header&text=NABEEL%20SAROSH%20AHMED&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20IMPACT-DRIVEN%20BUILDER&descAlignY=56&descSize=18" alt="Nabeel Sarosh Ahmed — AI, full-stack, impact-driven builder" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Engineering+AI+that+solves+real+problems.;Building+full-stack+products+with+purpose.;Designing+for+accessibility%2C+impact%2C+and+scale.;From+idea+%E2%86%92+prototype+%E2%86%92+impact+%F0%9F%9A%80" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=Engineering+AI+that+solves+real+problems.;Building+full-stack+products+with+purpose.;Designing+for+accessibility%2C+impact%2C+and+scale.;From+idea+%E2%86%92+prototype+%E2%86%92+impact+%F0%9F%9A%80" alt="Engineering AI that solves real problems. Building full-stack products with purpose." />
 </p>
 
 <p align="center">
@@ -31,13 +31,11 @@
   <a href="#-open-a-channel"><b>Contact</b></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 
 ## ⚡ The Builder Behind the Code
 
-<img align="right" alt="Animated developer workspace" width="320" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
-
-I'm a **second-year Computer Science Engineering student** building products where engineering meets real-world impact: **food redistribution, digital accessibility, financial intelligence, and emergency first response**. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
+I'm a **second-year Computer Science Engineering student at PESITM** building products where engineering meets real-world impact: **food redistribution, digital accessibility, financial intelligence, and emergency first response**. I enjoy taking ambitious ideas from a rough concept to a working, thoughtful experience.
 
 ```python
 class Nabeel:
@@ -52,17 +50,8 @@ class Nabeel:
         return impact(prototype(idea))  # 🚀
 ```
 
-<br clear="right" />
-
-<details>
-<summary><strong>🗂️ Open the developer dossier</strong></summary>
-<br />
-
 - 🔭 **Currently exploring:** AI integration, robust backend systems, data structures and algorithms.
-- 💜 **I care about:** accessibility, privacy-aware design, dependable workflows, and products that help people.
 - 💬 **Ask me about:** hackathons, AI product ideas, full-stack web apps, and turning an idea into a prototype.
-- 🤝 **Open to:** meaningful collaborations, open-source work, and challenging product problems.
-</details>
 
 <a id="mission-map"></a>
 
@@ -97,13 +86,13 @@ flowchart LR
       <p><a href="https://food-wise-henna.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch FoodWise live demo" /></a> <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View FoodWise source" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>♿ <a href="https://github.com/nabeel05-ship-it/webforall">WebForAll</a></h3>
+      <h3>♿ <a href="https://github.com/nabeel05-ship-it/WebForAll">WebForAll</a></h3>
       <p><img src="https://img.shields.io/badge/IMPACT-DIGITAL%20ACCESSIBILITY-0ea5e9?style=flat-square&labelColor=111827" alt="Digital accessibility" /></p>
       <p><strong>Accessibility intelligence for the modern web</strong></p>
       <p>A privacy-first scanner that translates accessibility audits into clear, developer-ready remediation guidance.</p>
       <p>✦ axe-core audits &nbsp; ✦ WCAG insight &nbsp; ✦ secure URL scanning &nbsp; ✦ PDF/JSON reports</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>axe-core</code> <code>Tailwind CSS</code></p>
-      <p><a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a> <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a></p>
+      <p><a href="https://webforall-seven.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch WebForAll live demo" /></a> <a href="https://github.com/nabeel05-ship-it/WebForAll"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View WebForAll source" /></a></p>
     </td>
   </tr>
   <tr>
@@ -117,13 +106,13 @@ flowchart LR
       <p><a href="https://nexworth-ten.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch NexWorth live demo" /></a> <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View NexWorth source" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🆘 <a href="https://github.com/Sudhanshu-22-11/ResQ-AI">ResQ AI</a></h3>
+      <h3>🆘 <a href="https://github.com/nabeel05-ship-it/ResQ-AI">ResQ AI</a></h3>
       <p><img src="https://img.shields.io/badge/IMPACT-EMERGENCY%20RESPONSE-ef4444?style=flat-square&labelColor=111827" alt="Emergency response" /></p>
       <p><strong>Offline-first emergency first-response PWA</strong></p>
       <p>Designed to help people take the right first steps in emergencies before professional care arrives.</p>
       <p>✦ hold-to-SOS &nbsp; ✦ offline first-aid &nbsp; ✦ 12+ languages &nbsp; ✦ CPR metronome &nbsp; ✦ AI vision guidance</p>
       <p><code>React</code> <code>PWA</code> <code>Capacitor</code> <code>Groq</code></p>
-      <p><a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a> <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a></p>
+      <p><a href="https://resq-ai-three.vercel.app/login"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch ResQ AI live demo" /></a> <a href="https://github.com/nabeel05-ship-it/ResQ-AI"><img src="https://img.shields.io/badge/SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View ResQ AI source" /></a></p>
     </td>
   </tr>
 </table>
@@ -132,23 +121,10 @@ flowchart LR
   <a href="https://github.com/nabeel05-ship-it?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_FULL_PROJECT_LAB-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
 </p>
 
-<details>
-<summary><strong>📌 Open the project showcase</strong></summary>
-<br />
-<p align="center">
-  <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=FoodWise&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="FoodWise repository card" /></a>
-  <a href="https://github.com/nabeel05-ship-it/webforall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=webforall&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="WebForAll repository card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/nabeel05-ship-it/NexWorth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=NexWorth&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="NexWorth repository card" /></a>
-  <a href="https://github.com/Sudhanshu-22-11/ResQ-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu-22-11&repo=ResQ-AI&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="ResQ AI repository card" /></a>
-</p>
-</details>
-
 ## 🧩 Technology Constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vite,figma&theme=dark&perline=8" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vite,figma&theme=dark&perline=8" alt="Python, TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, Git, GitHub, Vercel, Vite, Figma" />
 </p>
 
 | Domain | Tools I work with |
@@ -163,49 +139,20 @@ flowchart LR
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&theme=tokyonight&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nabeel05-ship-it&show_icons=true&title_color=2563eb&icon_color=2563eb&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub statistics" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&theme=tokyonight&title_color=60a5fa&text_color=cbd5e1&hide_border=true&bg_color=00000000&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&title_color=2563eb&hide_border=true&bg_color=00000000&langs_count=8" alt="Most-used languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel05-ship-it&layout=compact&title_color=2563eb&hide_border=true&bg_color=00000000&langs_count=8" alt="Most-used languages" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nabeel05-ship-it&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=EC4899&currStreakLabel=60A5FA" />
-    <img src="https://streak-stats.demolab.com?user=nabeel05-ship-it&hide_border=true&background=00000000&ring=2563EB&fire=EC4899&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+    <img height="165" src="https://streak-stats.demolab.com?user=nabeel05-ship-it&hide_border=true&background=00000000&ring=2563EB&fire=EC4899&currStreakLabel=2563EB" alt="GitHub contribution streak" />
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/nabeel05-ship-it" alt="Nabeel's GitHub contribution graph" width="100%" />
-</p>
-
-<details>
-<summary><strong>📊 Open the activity vault</strong></summary>
-<br />
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabeel05-ship-it&theme=tokyonight" alt="GitHub profile summary" />
-</p>
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabeel05-ship-it&theme=tokyonight" alt="Repositories by language" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabeel05-ship-it&theme=tokyonight" alt="Most-used languages by commit activity" />
-</p>
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabeel05-ship-it&theme=tokyonight" alt="GitHub summary statistics" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nabeel05-ship-it&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
-</p>
-</details>
-
-## 🐍 Contribution Garden
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Animated snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
@@ -224,11 +171,11 @@ If you're working on an <b>AI product</b>, <b>accessibility initiative</b>, <b>s
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+that+matters." alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+that+matters." alt="Thanks for stopping by. Let's build something that matters." />
 </p>
 
 <p align="center"><a href="#top">⬆ Back to top</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,28:7c3aed,58:2563eb,82:0ea5e9,100:020617&height=130&section=footer&animation=fadeIn" alt="Aurora wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,28:7c3aed,58:2563eb,82:0ea5e9,100:020617&height=130&section=footer&animation=fadeIn" alt="" />
 </p>
