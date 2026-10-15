@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-label="divider">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
-<radialGradient id="d"><stop offset="0" stop-color="#fff"/><stop offset="0.35" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient></defs>
-<rect x="0" y="11" width="1000" height="2" fill="url(#g)"/>
-<circle cy="12" r="10" fill="url(#d)"><animate attributeName="cx" values="60;940;60" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></circle>
-</svg>
