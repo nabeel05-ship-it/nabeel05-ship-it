@@ -16,11 +16,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Render weekly contribution chart
-        run: python3 scripts/contributions.py ${{ github.repository_owner }} dist/contributions.svg
+        run: python3 scripts/contributions.py ${{ github.repository_owner }} dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish chart SVG
+      - name: Publish chart SVGs
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

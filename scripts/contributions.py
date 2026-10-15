@@ -1,6 +1,6 @@
-"""Render a minimal weekly contribution chart: one bar per week of the last year.
+"""Render a minimal weekly contribution chart (light and dark variants).
 
-Usage: GITHUB_TOKEN=... python3 scripts/contributions.py <github-login> <output.svg>
+Usage: GITHUB_TOKEN=... python3 scripts/contributions.py <github-login> <output-dir>
 """
 import datetime as dt
 import json
@@ -9,7 +9,13 @@ import os
 import sys
 import urllib.request
 
-SANS = "'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
+SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"
+
+# Matches GitHub's own light/dark foreground, muted and border colours.
+THEMES = {
+    "light": {"bar": "#1f2328", "muted": "#59636e", "rule": "#d1d9e0"},
+    "dark": {"bar": "#f0f6fc", "muted": "#9198a1", "rule": "#3d444d"},
+}
 
 QUERY = """query($login: String!) { user(login: $login) { contributionsCollection {
   contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } } } } }"""
@@ -32,53 +38,39 @@ def stats(weeks):
     for c in days:
         run = run + 1 if c else 0
         longest = max(longest, run)
-    return sum(1 for c in days if c), longest, max(days, default=0)
+    return sum(1 for c in days if c), longest
 
 
-def render(total, weeks):
-    W, H = 1000, 280
-    BASE = 220
-    left, right = 40, 960
+def render(total, weeks, theme):
+    c = THEMES[theme]
+    W, H = 1000, 200
+    BASE = 160
+    left, right = 0, 1000
     n = len(weeks)
     step = (right - left) / n
-    bw = step * 0.62
-    totals = [sum(c for _, c in w) for w in weeks]
+    bw = step * 0.55
+    totals = [sum(n_ for _, n_ in w) for w in weeks]
     peak = max(totals, default=0)
-    active, longest, best = stats(weeks)
+    active, longest = stats(weeks)
 
     bars, months, seen = [], [], set()
     for i, (w, t) in enumerate(zip(weeks, totals)):
         x = left + i * step + (step - bw) / 2
         if t:
-            h = 6 + 124 * math.sqrt(t / peak)
-            d = 0.3 + i * 0.012
-            bars.append(f'<rect x="{x:.1f}" y="{BASE - h:.1f}" width="{bw:.1f}" height="{h:.1f}" rx="{bw / 2:.1f}" fill="url(#bar)">'
-                        f'<title>{w[0][0]}: {t} contributions</title>'
-                        f'<animate attributeName="height" values="0;0;{h:.1f}" keyTimes="0;{d / (d + 0.6):.3f};1" dur="{d + 0.6:.2f}s" fill="freeze"/>'
-                        f'<animate attributeName="y" values="{BASE};{BASE};{BASE - h:.1f}" keyTimes="0;{d / (d + 0.6):.3f};1" dur="{d + 0.6:.2f}s" fill="freeze"/></rect>')
+            h = 4 + 106 * math.sqrt(t / peak)
+            bars.append(f'<rect x="{x:.1f}" y="{BASE - h:.1f}" width="{bw:.1f}" height="{h:.1f}" rx="2" fill="{c["bar"]}">'
+                        f'<title>Week of {w[0][0]}: {t} contributions</title></rect>')
         else:
-            bars.append(f'<rect x="{x:.1f}" y="{BASE - 3:.1f}" width="{bw:.1f}" height="3" rx="1.5" fill="#1e293b"/>')
+            bars.append(f'<rect x="{x:.1f}" y="{BASE - 2:.1f}" width="{bw:.1f}" height="2" rx="1" fill="{c["rule"]}"/>')
         first = dt.date.fromisoformat(w[0][0])
         if (first.year, first.month) not in seen and first.day <= 7 and i < n - 1:
             seen.add((first.year, first.month))
-            months.append(f'<text x="{x:.0f}" y="{BASE + 26}" font-size="11" fill="#64748b">{first.strftime("%b")}</text>')
+            months.append(f'<text x="{x:.0f}" y="{BASE + 24}" font-size="12" fill="{c["muted"]}">{first.strftime("%b")}</text>')
 
-    stat_items = [(total, "contributions"), (active, "active days"), (f"{longest}d", "longest streak")]
-    stat_svg = "".join(
-        f'<text x="{960 - (2 - k) * 130}" y="46" text-anchor="end" font-size="20" font-weight="700" fill="#f1f5f9">{v}</text>'
-        f'<text x="{960 - (2 - k) * 130}" y="64" text-anchor="end" font-size="11" fill="#64748b">{lbl}</text>'
-        for k, (v, lbl) in enumerate(stat_items))
-
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{total} contributions in the last year, {active} active days, longest streak {longest} days">
-<defs>
-  <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-</defs>
+    summary = f"{total} contributions in the last year · {active} active days · longest streak {longest} days"
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{summary}">
 <g font-family="{SANS}">
-  <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="16" fill="#0b1120" stroke="#1e293b"/>
-  <text x="40" y="46" font-size="16" font-weight="600" fill="#f1f5f9">Weekly contributions</text>
-  <text x="40" y="66" font-size="12" fill="#64748b">Last 12 months · updated {dt.date.today().strftime("%d %b %Y")}</text>
-  {stat_svg}
-  <line x1="{left}" y1="{BASE + 0.5}" x2="{right}" y2="{BASE + 0.5}" stroke="#1e293b"/>
+  <text x="0" y="18" font-size="14" fill="{c["muted"]}">{summary}</text>
   {''.join(bars)}
   {''.join(months)}
 </g>
@@ -86,9 +78,10 @@ def render(total, weeks):
 
 
 if __name__ == "__main__":
-    login, out = sys.argv[1], sys.argv[2]
+    login, out_dir = sys.argv[1], sys.argv[2]
     total, weeks = fetch(login, os.environ["GITHUB_TOKEN"])
-    os.makedirs(os.path.dirname(out) or ".", exist_ok=True)
-    with open(out, "w") as f:
-        f.write(render(total, weeks))
-    print(f"wrote {out}: {total} contributions over {len(weeks)} weeks")
+    os.makedirs(out_dir, exist_ok=True)
+    for theme in THEMES:
+        with open(os.path.join(out_dir, f"contributions-{theme}.svg"), "w") as f:
+            f.write(render(total, weeks, theme))
+    print(f"wrote {out_dir}: {total} contributions over {len(weeks)} weeks")
