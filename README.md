@@ -109,11 +109,7 @@ I'm a **second-year Computer Science Engineering student** building products whe
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/nabeel05-ship-it/nabeel05-ship-it/output/skyline.svg" width="100%" alt="Build Lab Skyline: one building per week of contributions, rebuilt daily" />
 </p>
 
 <a id="contact"></a>
