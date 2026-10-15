@@ -16,25 +16,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-7c3aed?style=flat-square&labelColor=111827" alt="Building in public" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOCIAL%20IMPACT-ec4899?style=flat-square&labelColor=111827" alt="AI and social impact" />
-  <img src="https://img.shields.io/badge/MODE-OPEN%20TO%20COLLABORATE-0ea5e9?style=flat-square&labelColor=111827" alt="Open to collaborate" />
-</p>
-
-<p align="center">
-  <a href="#-the-builder-behind-the-code"><b>About</b></a> &nbsp;·&nbsp;
-  <a href="#mission-map"><b>Mission Map</b></a> &nbsp;·&nbsp;
-  <a href="#-featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
-  <a href="#-technology-constellation"><b>Stack</b></a> &nbsp;·&nbsp;
-  <a href="#-live-github-pulse"><b>GitHub Pulse</b></a> &nbsp;·&nbsp;
-  <a href="#-open-a-channel"><b>Contact</b></a>
+  <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-38bdf8?style=flat-square&labelColor=0b1120" alt="About" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/02-PROJECTS-a78bfa?style=flat-square&labelColor=0b1120" alt="Projects" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/03-STACK-f472b6?style=flat-square&labelColor=0b1120" alt="Stack" /></a>
+  <a href="#pulse"><img src="https://img.shields.io/badge/04-GITHUB_PULSE-38bdf8?style=flat-square&labelColor=0b1120" alt="GitHub Pulse" /></a>
+  <a href="#garden"><img src="https://img.shields.io/badge/05-GARDEN-4ade80?style=flat-square&labelColor=0b1120" alt="Contribution Garden" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/06-CONTACT-f472b6?style=flat-square&labelColor=0b1120" alt="Contact" /></a>
 </p>
 
 <p align="center">
   <img src="assets/impact.svg" width="100%" alt="4 live products · 4 impact domains · 16 technologies · 12+ languages in ResQ AI" />
 </p>
 
-## ⚡ The Builder Behind the Code
+<a id="about"></a>
+
+<p align="center">
+  <img src="assets/header-about.svg" width="100%" alt="01 — The Builder Behind the Code" />
+</p>
 
 <img align="right" alt="Animated developer workspace" width="260" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
 
@@ -46,40 +44,15 @@ I'm a **second-year Computer Science Engineering student** building products whe
   <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, mission, what I'm building and learning" />
 </p>
 
-<details>
-<summary><strong>🗂️ Open the developer dossier</strong></summary>
-<br />
+<p align="center">
+  <img src="assets/dossier.svg" width="100%" alt="Currently exploring: AI integration, backend systems, DSA. I care about: accessibility, privacy-aware design, dependable workflows. Ask me about: hackathons, AI product ideas, full-stack apps. Open to: collaborations, open source, challenging product problems." />
+</p>
 
-- 🔭 **Currently exploring:** AI integration, robust backend systems, data structures and algorithms.
-- 💜 **I care about:** accessibility, privacy-aware design, dependable workflows, and products that help people.
-- 💬 **Ask me about:** hackathons, AI product ideas, full-stack web apps, and turning an idea into a prototype.
-- 🤝 **Open to:** meaningful collaborations, open-source work, and challenging product problems.
-</details>
+<a id="projects"></a>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<a id="mission-map"></a>
-
-## 🗺️ Problems I Chose to Solve
-
-Every project starts with a real problem, not a tech stack.
-
-```mermaid
-flowchart LR
-    P1["🥡 Surplus food<br/>goes to waste"]:::problem --> S1["🍽️ FoodWise<br/>NGO matching + OTP handover"]:::solution
-    P2["🚧 The web isn't<br/>accessible to everyone"]:::problem --> S2["♿ WebForAll<br/>WCAG audits → clear fixes"]:::solution
-    P3["💸 Hidden costs in<br/>everyday spending"]:::problem --> S3["💹 NexWorth<br/>AI financial intelligence"]:::solution
-    P4["⏱️ Critical minutes before<br/>help arrives"]:::problem --> S4["🆘 ResQ AI<br/>offline-first SOS + first aid"]:::solution
-    S1 & S2 & S3 & S4 --> I(("🌍 Real<br/>Impact")):::impact
-
-    classDef problem fill:#1e1b4b,stroke:#7c3aed,color:#e9d5ff,stroke-width:2px
-    classDef solution fill:#0c4a6e,stroke:#0ea5e9,color:#e0f2fe,stroke-width:2px
-    classDef impact fill:#831843,stroke:#ec4899,color:#fce7f3,stroke-width:3px
-```
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## ✨ Featured Projects
+<p align="center">
+  <img src="assets/header-projects.svg" width="100%" alt="02 — Featured Projects" />
+</p>
 
 <table>
   <tr>
@@ -117,7 +90,7 @@ flowchart LR
 </p>
 
 <details>
-<summary><strong>📌 Open the project showcase</strong></summary>
+<summary><strong>📌 Open the repository cards</strong></summary>
 <br />
 <p align="center">
   <a href="https://github.com/nabeel05-ship-it/FoodWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel05-ship-it&repo=FoodWise&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa" alt="FoodWise repository card" /></a>
@@ -129,29 +102,29 @@ flowchart LR
 </p>
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<a id="stack"></a>
 
-## 🧩 Technology Constellation
+<p align="center">
+  <img src="assets/header-stack.svg" width="100%" alt="03 — Technology Constellation" />
+</p>
 
 <p align="center">
   <img src="assets/tech-orbit.svg" width="100%" alt="Animated technology orbit" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vite,figma&theme=dark&perline=8" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vite,figma&theme=dark&perline=16" alt="Technology icons" />
 </p>
 
-| Domain | Tools I work with |
-| :-- | :-- |
-| 🧠 **Languages** | Python, TypeScript, JavaScript, HTML, CSS |
-| 🎨 **Frontend** | React, Next.js, Tailwind CSS, Vite |
-| ⚙️ **Backend & Data** | Node.js, Express, MongoDB, REST APIs |
-| 🤖 **AI & Product** | Groq, Gemini, accessibility engineering, PWA design |
-| 🚀 **Ship & Collaborate** | Git, GitHub, Vercel, Figma |
+<p align="center">
+  <img src="assets/stack-matrix.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, HTML, CSS. Frontend: React, Next.js, Tailwind CSS, Vite. Backend & Data: Node.js, Express, MongoDB, REST APIs. AI & Product: Groq, Gemini, accessibility engineering, PWA design. Ship & Collaborate: Git, GitHub, Vercel, Figma." />
+</p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<a id="pulse"></a>
 
-## 📡 Live GitHub Pulse
+<p align="center">
+  <img src="assets/header-pulse.svg" width="100%" alt="04 — Live GitHub Pulse" />
+</p>
 
 <p align="center">
   <picture>
@@ -191,9 +164,11 @@ flowchart LR
 </p>
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<a id="garden"></a>
 
-## 🐍 Contribution Garden
+<p align="center">
+  <img src="assets/header-garden.svg" width="100%" alt="05 — Contribution Garden" />
+</p>
 
 <p align="center">
   <picture>
@@ -203,14 +178,14 @@ flowchart LR
   </picture>
 </p>
 
-<p align="center"><sub>Auto-refreshed daily from my GitHub contribution history.</sub></p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## 📬 Open a Channel
+<a id="contact"></a>
 
 <p align="center">
-If you're working on an <b>AI product</b>, <b>accessibility initiative</b>, <b>social-impact platform</b>, or an <b>ambitious full-stack idea</b>,<br />I'd love to connect and explore it together.
+  <img src="assets/header-contact.svg" width="100%" alt="06 — Open a Channel" />
+</p>
+
+<p align="center">
+  <a href="mailto:nabeelsaroshahmed@gmail.com"><img src="assets/contact.svg" width="100%" alt="Got an ambitious idea? AI products, accessibility initiatives, social-impact platforms, ambitious full-stack ideas — I'd love to connect and explore it together." /></a>
 </p>
 
 <p align="center">
@@ -220,11 +195,7 @@ If you're working on an <b>AI product</b>, <b>accessibility initiative</b>, <b>s
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+that+matters." alt="Thanks for visiting" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — let's build something that matters." />
 </p>
 
-<p align="center"><a href="#top">⬆ Back to top</a></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,28:7c3aed,58:2563eb,82:0ea5e9,100:020617&height=130&section=footer&animation=fadeIn" alt="Aurora wave footer" />
-</p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86_BACK_TO_TOP-0b1120?style=flat-square" alt="Back to top" /></a></p>
